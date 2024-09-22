@@ -1,0 +1,54 @@
+---
+---
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'DM Mono', 'Noto Sans TC', Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 1.5;
+}
+
+h1 {
+    margin-bottom: 1rem;
+}
+
+a {
+    color: rgb(255, 214, 10);
+}
+
+p.email {
+    margin-bottom: 0rem;
+}
+
+p.email a {
+    color: white !important;
+}
+
+p.links {
+    margin-top: 0rem;
+    margin-bottom: 2rem;
+}
+
+@media (max-width: 767px) {
+    .content {
+        margin: 4rem 1rem;
+    }
+}
+
+@media (min-width: 768px) {
+
+    html,
+    body {
+        height: 100%;
+    }
+
+    .content {
+        max-width: 80%;
+    }
+}
