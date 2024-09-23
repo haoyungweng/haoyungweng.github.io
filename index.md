@@ -5,7 +5,8 @@ layout: home
 
 # hao-yung weng
 
-{: .email }
+{: .bio }
+he/him  
 [haoyungw[at]cs.cmu.edu](mailto:haoyungw@cs.cmu.edu)
 
 {: .links }
