@@ -1,9 +1,7 @@
 title: hao-yung weng
 email: haoyungw@cs.cmu.edu
-description: >-
-  hao-yung's personal website
 baseurl: ""
-url: "https://haoyungweng.me/"
+url: "https://haoyungweng.net/"
 github_username:  haoyungweng
 
 plugins:
