@@ -20,6 +20,6 @@ i've gained diverse industry experience. at [google](https://about.google/), i d
 
 in 2023, i was honored as one of taiwan's outstanding youth by the ministry of education.
 
-outside of my academic work, i’m a big coffee nerd and write [blog posts](https://whycoffee.blog/en) exploring the technical and scientific sides of coffee brewing, like [this one](https://whycoffee.blog/en/articles/Wet-WDT-A-Re-Evaluation), where i evaluate wet wdt, a technique that’s essentially stirring coffee with—well—acupuncture needles.
+outside of my academic work, i’m a big coffee geek and write [blog posts](https://whycoffee.blog/en) exploring the more technical, scientific, and probably nerdy sides of coffee brewing, like [this one](https://whycoffee.blog/en/articles/Wet-WDT-A-Re-Evaluation), where i evaluate wet wdt, a technique that’s essentially stirring coffee with—well—acupuncture needles.
 
 cheers! take care. maybe give my favorite post-rock band a [listen](https://youtu.be/0lKahceY8qg)?

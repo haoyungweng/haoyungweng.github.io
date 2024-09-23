@@ -12,10 +12,13 @@ body {
     justify-content: center;
     align-items: center;
     line-height: 1.5;
+    min-height: 100vh;
+    margin: 0rem;
 }
 
 h1 {
     font-weight: 400;
+    margin-top: 1rem;
     margin-bottom: 1rem;
 }
 
@@ -37,19 +40,20 @@ p.links {
     margin-bottom: 2rem;
 }
 
+.content {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
 @media (max-width: 767px) {
     .content {
-        margin: 4rem 1rem 8rem 1rem;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+        margin-bottom: 7rem;
     }
 }
 
 @media (min-width: 768px) {
-
-    html,
-    body {
-        height: 100%;
-    }
-
     .content {
         max-width: 80%;
     }
