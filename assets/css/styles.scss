@@ -19,7 +19,6 @@ body {
 h1 {
     font-weight: 400;
     margin-top: 1rem;
-    margin-bottom: 1rem;
 }
 
 a {
@@ -56,15 +55,28 @@ p.four-o-four {
     margin: 0rem;
 }
 
+.portrait-container {
+    line-height: 0;
+    margin: 2rem 0rem;
+}
+
 @media (max-width: 767px) {
     .content {
         margin: 7rem 0rem;
         padding: 0rem 1.5rem;
+    }
+
+    .portrait {
+        width: 100%;
     }
 }
 
 @media (min-width: 768px) {
     .content {
         max-width: 80%;
+    }
+
+    .portrait {
+        width: 50%;
     }
 }

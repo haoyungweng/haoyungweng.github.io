@@ -5,6 +5,10 @@ layout: home
 
 # hao-yung weng
 
+<div class="portrait-container">
+    <img src="assets/images/portrait_of_me.jpg" alt="portrait of hao-yung" class="portrait">
+</div>
+
 he/him  
 [haoyungw[at]cs.cmu.edu](mailto:haoyungw@cs.cmu.edu)
 {: .bio }
