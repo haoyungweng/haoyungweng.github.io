@@ -13,7 +13,7 @@ he/him
 [haoyungw[at]cs.cmu.edu](mailto:haoyungw@cs.cmu.edu)
 {: .bio }
 
-[cv](assets/files/CV_20240930.pdf), [linkedin](https://www.linkedin.com/in/haoyungweng/), *currently seeking 2025 summer internships in research positions, mle, or swe*
+[cv](assets/files/CV_20240930.pdf), [linkedin](https://www.linkedin.com/in/haoyungweng/)
 {: .links }
 
 hi, i'm hao-yung weng (翁浩永), a master's in [machine learning](https://www.ml.cmu.edu/) (msml) student at [carnegie mellon university's school of computer science](https://www.cs.cmu.edu/). my research focuses on natural language and speech processing, as well as large language models. lately, i’ve been fascinated by the mechanistic interpretability of llms and its implications for aligning and ensuring the safety of ai, which i believe will be the most critical challenge for humanity's future.
