@@ -1,82 +1,78 @@
 ---
 ---
 
+:root {
+    --background-color: black;
+    --text-color: rgb(245, 245, 247);
+    --link-color: rgb(255, 214, 10);
+}
+
+html {
+    font-size: 14px;
+}
+
 body {
-    background-color: black;
-    color: white;
-    font-family: 'DM Mono', 'Noto Sans TC', Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
-    font-optical-sizing: auto;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: "dm-sans", sans-serif;
+    font-size: 16px;
     font-weight: 400;
-    font-style: normal;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    line-height: 1.5;
-    min-height: 100vh;
-    margin: 0rem;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
 }
 
-h1 {
-    font-weight: 400;
-    margin-top: 1rem;
+.title {
+    font-size: 2rem;
+    font-weight: 500;
 }
 
-a {
-    color: rgb(255, 214, 10);
-}
-
-p.bio {
-    margin: 0rem;
-}
-
-p.bio a {
-    color: white !important;
+.important {
+    color: var(--link-color);
     text-decoration: none;
 }
 
-p.links {
-    margin-top: 0rem;
-    margin-bottom: 2rem;
+a {
+    text-decoration-thickness: 1px;
+    text-underline-offset: 4px;
+    color: var(--text-color);
 }
 
-.content {
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+p {
+    margin-bottom: 1.5rem;
+}
+
+p:last-child {
+    margin-bottom: 0;
+}
+
+.email {
+    text-decoration: none;
+}
+
+.container {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+
+    @media (max-width: 575px) {
+        padding: 0rem 1.5rem;
+    }
+
+    @media (min-width: 992px) {
+        max-width: 880px;
+    }
+}
+
+.img-fluid {
+    border-radius: 4px;
 }
 
 h1.four-o-four {
-    font-size: 6rem;
-    color: rgb(255, 214, 10);
+    font-size: 7rem;
+    color: var(--link-color);
     margin: 0rem;
 }
 
 p.four-o-four {
     font-size: 2rem;
     margin: 0rem;
-}
-
-.portrait-container {
-    line-height: 0;
-    margin: 2rem 0rem;
-}
-
-@media (max-width: 767px) {
-    .content {
-        margin: 7rem 0rem;
-        padding: 0rem 1.5rem;
-    }
-
-    .portrait {
-        width: 100%;
-    }
-}
-
-@media (min-width: 768px) {
-    .content {
-        max-width: 80%;
-    }
-
-    .portrait {
-        width: 30%;
-    }
 }

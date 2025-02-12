@@ -1,29 +1,16 @@
 ---
-title: HAO-YUNG WENG
+title: Hao-Yung Weng
 layout: home
 ---
 
-<div class="portrait-container">
-    <img src="assets/images/portrait_of_me.jpg" alt="portrait of hao-yung" class="portrait">
-</div>
+Hi, I'm Hao-Yung Weng, an MSML (Master's in [Machine Learning](https://www.ml.cmu.edu/)) student at [Carnegie Mellon University's School of Computer Science](https://www.cs.cmu.edu/). My research focuses on natural language and speech processing, as well as large language models (LLMs). Lately, I've been fascinated by the mechanistic interpretability of LLMs and its implications for aligning and ensuring the safety of AI, which I believe will be the most critical challenge for humanity's future.
 
-# hao-yung weng
+Before joining CMU, I graduated as valedictorian and *summa cum laude* (top 1%) from [National Taiwan University](https://www.ntu.edu.tw/english/) with a bachelor's degree in computer science. While there, I had the privilege of working with Professor [Yun-Nung Chen](https://www.csie.ntu.edu.tw/~yvchen/) on natural language processing and transfer learning, and with Professor [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) on [speech processing and parameter-efficient fine-tuning](https://arxiv.org/abs/2401.02122).
 
-he/him  
-[haoyungw[at]cs.cmu.edu](mailto:haoyungw@cs.cmu.edu)
-{: .bio }
+I have gained diverse industry experience. At [Google](https://about.google/), I developed a bug triage system that streamlined vendor collaboration under the Joint Development Manufacturer (JDM) model, cutting issue resolution time by 25%. At [WorldQuant](https://www.worldquant.com/), as a quantitative research intern, I built mathematical models to predict equity market movements and implemented novel, profitable trading strategies.
 
-[cv](assets/files/CV_20241110.pdf), [linkedin](https://www.linkedin.com/in/haoyungweng/)
-{: .links }
+In 2023, I was honored as one of Taiwan's Outstanding Youth by the Ministry of Education.
 
-hi, i'm hao-yung weng (翁浩永), a master's in [machine learning](https://www.ml.cmu.edu/) (msml) student at [carnegie mellon university's school of computer science](https://www.cs.cmu.edu/). my research focuses on natural language and speech processing, as well as large language models. lately, i’ve been fascinated by the mechanistic interpretability of llms and its implications for aligning and ensuring the safety of ai, which i believe will be the most critical challenge for humanity's future.
+Outside of my academic work, I'm a big coffee geek and write [blog posts](https://whycoffee.blog/en) exploring the more technical, scientific, and probably nerdy sides of coffee brewing, like [this one](https://whycoffee.blog/en/articles/Wet-WDT-A-Re-Evaluation), where I evaluate Wet WDT, a technique that's essentially stirring coffee with—well—acupuncture needles.
 
-before joining cmu, i graduated as valedictorian and *summa cum laude* (top 1%) from [national taiwan university](https://www.ntu.edu.tw/english/) with a bachelor's degree in computer science. while there, i had the privilege of working with professor [yun-nung chen](https://www.csie.ntu.edu.tw/~yvchen/) on natural language processing and transfer learning, and with professor [hung-yi lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) on [speech processing and parameter-efficient fine-tuning](https://arxiv.org/abs/2401.02122).
-
-i've gained diverse industry experience. at [google](https://about.google/), i developed a bug triage system that streamlined vendor collaboration under the joint development manufacturer (jdm) model, cutting issue resolution time by 25%. at [worldquant](https://www.worldquant.com/), as a quantitative research intern, i built mathematical models to predict equity market movements and evaluated their performance using u.s. stock market data.
-
-in 2023, i was honored as one of taiwan's outstanding youth by the ministry of education.
-
-outside of my academic work, i’m a big coffee geek and write [blog posts](https://whycoffee.blog/en) exploring the more technical, scientific, and probably nerdy sides of coffee brewing, like [this one](https://whycoffee.blog/en/articles/Wet-WDT-A-Re-Evaluation), where i evaluate wet wdt, a technique that’s essentially stirring coffee with—well—acupuncture needles.
-
-cheers! take care. maybe give my favorite post-rock band a [listen](https://youtu.be/0lKahceY8qg)?
+Cheers! Take care. Maybe give my favorite post-rock band a [listen](https://youtu.be/0lKahceY8qg)?
