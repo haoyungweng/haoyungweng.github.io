@@ -7,8 +7,11 @@
     --link-color: rgb(255, 214, 10);
 }
 
-html {
-    font-size: 14px;
+@font-face {
+    font-family: 'Basis Grotesque';
+    src: url('../fonts/BasisGrotesqueRegular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 body {
@@ -18,11 +21,12 @@ body {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.7;
+    letter-spacing: .03125em;
     -webkit-font-smoothing: antialiased;
 }
 
 .title {
-    font-size: 2rem;
+    font-size: 1.75rem;
     font-weight: 500;
 }
 
