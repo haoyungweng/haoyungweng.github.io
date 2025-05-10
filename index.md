@@ -1,5 +1,4 @@
 ---
-title: Hao-yung Weng
 layout: home
 ---
 
