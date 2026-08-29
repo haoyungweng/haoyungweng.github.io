@@ -50,6 +50,16 @@ p:last-child {
     margin-bottom: 0;
 }
 
+.divider {
+    text-align: center;
+    margin: 0;
+    padding: 1rem 0;
+}
+
+p:has(+ .divider) {
+    margin-bottom: 0;
+}
+
 .email {
     text-decoration: none;
 }

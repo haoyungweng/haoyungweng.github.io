@@ -4,6 +4,9 @@ layout: home
 
 [Update 3/9/26] On my 25th birthday, I joined [Nextdoor](https://about.nextdoor.com/) as a Machine Learning Engineer for my first full-time job, working on feed ranking. I'm now based in New York City (somewhere between Williamsburg and Bushwick, if we're being specific) and still don't know that many people here. Hit me up if you're around!
 
+-
+{: .divider}
+
 Hi, I’m Hao-yung Weng, a Master's student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University. I also work in the [Auton Lab](https://autonlab.org/) at the [Robotics Institute](https://www.ri.cmu.edu/), advised by Prof. [Artur Dubrawski](https://www.ri.cmu.edu/ri-faculty/artur-w-dubrawski/). My research focuses on natural language processing, speech processing, and large language models (LLMs). Lately, I’ve been exploring LLM personalization and federated learning to improve adaptability while preserving privacy—a key challenge for scalable AI.
 
 Beyond academia, I have diverse industry experience. This summer, I was an AI Research Intern at [HeyGen](https://www.heygen.com/), where I helped launch the flagship product, ["Video Agent"](https://www.heygen.com/agent), as part of the founding team. In short, it’s an agentic AI system that transforms prompts and media into dynamic, multi-scene videos. Among other contributions, I was in charge of the referencing module, enabling the agent to infer and reuse stylistic patterns—like tone, pacing, and shot structure—from reference videos, ideal for creators seeking consistency with minimal effort.
